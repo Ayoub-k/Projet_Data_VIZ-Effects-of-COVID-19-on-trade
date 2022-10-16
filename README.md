@@ -10,5 +10,15 @@ Un meilleur graphique préservatif a notre problème ainsi donner une bonne rép
  
  - le lien
   https://ayoub-k.github.io/Projet_Data_VIZ/
+
+# Sujet:
+
+ - Effects of COVID 19 on trade
+
+# DataSet:
+
+ - Dans cet ensemble de données on a des informations sur e-commerces en 2015, 2016, 2017, 2018, 2019 et 2020(le moment de covid19) du monde. Nous allons utiliser cet ensemble de données pour comprendre Effets du covid19 sur le commerce du monde 
  
+ # Conlusion
+  - Après avoir étudié et visualisé nos données, nous avons constaté que le virus covid19 n'affectait pas de manière significative le commerce 
  
