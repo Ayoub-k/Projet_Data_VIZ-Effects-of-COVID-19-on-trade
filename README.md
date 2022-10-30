@@ -9,7 +9,7 @@ Un meilleur graphique préservatif a notre problème ainsi donner une bonne rép
  Vu le Sujet actuel Covid19 et ces Effets on a décidé de donner une Vue  général sur " Effects of COVID 19 on trade " .
  
  - le lien
-  https://ayoub-k.github.io/Projet_Data_VIZ/
+  https://ayoub-k.github.io/Projet_Data_VIZ-Effects-of-COVID-19-on-trade/
 
 # Sujet:
 
